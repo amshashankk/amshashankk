@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm Shashank Kesarwani currently a 3rd Year CSE student at <a href="http://www.aktu.ac.in/">@APJ Abldul Kalam Technical University</a> and aspiring Computer Science & Engineering. Interested in Software Development, Cyber Security, & Cloud Computing
+    I'm <strong>Shashank Kesarwani<strong> currently a 3rd Year CSE student at <a href="http://www.aktu.ac.in/">@APJ Abldul Kalam Technical University</a> and aspiring Computer Science & Engineering. Interested in Software Development, Cyber Security, & Cloud Computing
   </samp>
 </p>
 
