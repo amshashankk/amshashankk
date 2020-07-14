@@ -1,7 +1,10 @@
 
 ## Heyo :wave: Devs, 
 
-I am **Shashank Kesarwani** currently a 3rd Year CSE student at <a href="http://www.aktu.ac.in/">APJ Abldul Kalam Technical University</a> and aspiring Computer Science & Engineering. Interested in Software Development, Cyber Security, & Cloud Computing
+[![](https://github.com/amshashank/amshashank/blob/master/img/profile.jpg)](https://sourcerer.io/amshashank)
+
+
+I am currently a 3rd Year CSE student at <a href="http://www.aktu.ac.in/">APJ Abldul Kalam Technical University</a> and aspiring Computer Science & Engineering. Interested in Software Development, Cyber Security, & Cloud Computing
 
 
 **You can connect with me on:**
@@ -11,5 +14,3 @@ I am **Shashank Kesarwani** currently a 3rd Year CSE student at <a href="http://
 * [![Slack](https://img.shields.io/badge/Slack-Shashank-yellow)](https://app.slack.com/client/T0145PE3493/C0140D0LQ78/user_profile/U014JTYJE1Y)
 
 
-Working on this Readme !
-will be updated soon !
