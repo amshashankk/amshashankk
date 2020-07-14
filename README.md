@@ -1,5 +1,6 @@
 
 ## Heyo :wave: Devs, 
+**I am currently a 3rd Year CSE student at <a href="http://www.aktu.ac.in/">APJ Abldul Kalam Technical University</a> and aspiring Computer Science & Engineering. Interested in Software Development, Cyber Security, & Cloud Computing.**
 
 [![](https://github.com/amshashank/amshashank/blob/master/img/Overview.png)](https://sourcerer.io/amshashank)
 [![](https://github.com/amshashank/amshashank/blob/master/img/Languages.png)](https://sourcerer.io/amshashank)
@@ -9,7 +10,6 @@
 
   [![](https://github.com/amshashank/amshashank/blob/master/img/rEPO.png)](https://sourcerer.io/amshashank)
 
-I am currently a 3rd Year CSE student at <a href="http://www.aktu.ac.in/">APJ Abldul Kalam Technical University</a> and aspiring Computer Science & Engineering. Interested in Software Development, Cyber Security, & Cloud Computing
 
 
 **You can connect with me on:**
