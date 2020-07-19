@@ -4,10 +4,12 @@
 **I'm a final student pursuing Bachelors's in Computer Science 🎓 from <a href="http://www.aktu.ac.in/">AKTU</a> Lucknow 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 Interested in Software Development, Cyber Security, & Cloud Computing.**
 
-## Visit - [Portfolio](https://amshashank.github.io/)to know more about me.
+## Visit - [Portfolio](https://amshashank.github.io/) to know more about me.
 
 
 **You can reach to me by social accounts:**
+
+
   <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/am-shashank/">
