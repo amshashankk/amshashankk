@@ -9,7 +9,6 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 <!-- ## Visit - [Portfolio](https://amshashank.github.io/) to know more about me. -->
 
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=amshashank&hide=contribs,prs" />
 </a>
@@ -18,7 +17,7 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 </a>
 
 
-
+---
 
 **You can reach to me by social accounts:**
 
