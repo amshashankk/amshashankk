@@ -17,11 +17,11 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 
 **You can reach to me by social accounts:**
 
-<a href="https://github.com/amshasankh">
+<a href="https://github.com/amshashank">
   <img align="left" alt="Shashank's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  </a>
 
-<a href="https://github.com/amshasankh">
+<a href="https://github.com/amshashank">
   <img align="left" alt="Shashank's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/amshashank">
