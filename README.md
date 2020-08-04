@@ -9,10 +9,10 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 <!-- ## Visit - [Portfolio](https://amshashank.github.io/) to know more about me. -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/amshashank">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=amshashank&hide=contribs,prs" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/amshashank">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amshashank&layout=compact" />
 </a>
 
@@ -22,11 +22,8 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 **You can reach to me by social accounts:**
 
 
-  <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/am-shashank/">
-  <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+ ![a](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)
+
 <a href="https://github.com/iampavangandhi">
   <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
