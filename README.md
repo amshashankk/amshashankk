@@ -8,32 +8,34 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 
 <!-- ## Visit - [Portfolio](https://amshashank.github.io/) to know more about me. -->
 
-
+<body>
 <a href="https://github.com/amshashank">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=amshashank&hide=contribs,prs" />
 </a>
 <a href="https://github.com/amshashank">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amshashank&layout=compact" />
 </a>
+  </body>
 
 
 ---
 
 **You can reach to me by social accounts:**
 
+<a href="https://github.com/amshasankh">
+  <img align="left" alt="Shashank's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ </a>
 
- ![a](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)
-
-<a href="https://github.com/iampavangandhi">
-  <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/amshasankh">
+  <img align="left" alt="Shashank's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/amshashank">
-  <img align="left" alt="Pavan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Shashank's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="(https://www.instagram.com/am.shashank">
-  <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Shashank's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/me.shashank/">
-  <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Shashank's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
