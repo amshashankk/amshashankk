@@ -8,15 +8,10 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 
 <!-- ## Visit - [Portfolio](https://amshashank.github.io/) to know more about me. -->
 
-<body>
-<a href="https://github.com/amshashank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=amshashank&hide=contribs,prs" />
-</a>
-<a href="https://github.com/amshashank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amshashank&layout=compact" />
-</a>
-  </body>
 
+![Statics](https://github-readme-stats.vercel.app/api?username=amshashank&hide=contribs,prs)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amshashank&layout=compact)
 
 ---
 
