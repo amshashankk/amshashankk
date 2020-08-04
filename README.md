@@ -8,7 +8,11 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 
 <!-- ## Visit - [Portfolio](https://amshashank.github.io/) to know more about me. -->
 
+
+
 ![amshashank](https://github-readme-stats.vercel.app/api?username=amshashank&hide=contribs,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amshashank&layout=compact)
 
 
 **You can reach to me by social accounts:**
