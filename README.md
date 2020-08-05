@@ -13,6 +13,10 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amshashank&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amshashank)](https://github.com/amshashank/amshashank.github.io)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amshashank)](https://github.com/amshashank/amshashank.github.io)
+
 ---
 
 **You can reach to me by social accounts:**
