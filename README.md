@@ -21,8 +21,10 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 <a href="https://www.facebook.com/me.shashank/">
   <img align="left" alt="Shashank's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br>
-<!-- ## Visit - [Portfolio](https://amshashank.github.io/) to know more about me. -->
+
+
+
+## Visit - [Portfolio](https://amshashank.github.io/) to know more.. -->
 
 ---
 
@@ -37,3 +39,4 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AasthaGithub&repo=DSA_Team12_Uplift_Project)](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project)
 
 
+---
