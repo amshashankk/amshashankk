@@ -22,9 +22,9 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
   <img align="left" alt="Shashank's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<br>
 
-
-## Visit - [Portfolio](https://amshashank.github.io/) to know more.. -->
+## Visit - [Portfolio](https://amshashank.github.io/) to know more..
 
 ---
 
