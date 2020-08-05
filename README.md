@@ -23,9 +23,6 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 
 
 
-You can reach to me by social
-
-
 <a href="https://github.com/amshashank">
   <img align="left" alt="Shashank's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  </a>
