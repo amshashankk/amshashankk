@@ -21,7 +21,7 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 
 
 
----
+
 
 **You can reach to me by social accounts:**
 
