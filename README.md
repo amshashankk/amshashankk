@@ -13,8 +13,9 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amshashank&layout=compact)
 
-[![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amshashank&repo=amshashank.github.io)](https://github.com/amshashank/amshashank.github.io)
+<!--[![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amshashank&repo=amshashank.github.io)](https://github.com/amshashank/amshashank.github.io) -->
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
