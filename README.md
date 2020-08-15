@@ -35,7 +35,7 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 <!--[![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amshashank&repo=amshashank.github.io)](https://github.com/amshashank/amshashank.github.io) -->
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amshashank&repo=amshashank.github.io)](https://github.com/amshashank/amshashank.github.io)
---><!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AasthaGithub&repo=DSA_Team12_Uplift_Project)](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project)
 -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AasthaGithub&repo=DSA_Team12_Uplift_Project)](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project)
+
 ---
