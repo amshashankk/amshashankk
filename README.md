@@ -11,22 +11,19 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
  </a>
 
 <a href="https://github.com/amshashankk">
-  <img align="left" alt="Shashank's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Shashank's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/github.svg" />
 </a>
 <a href="https://t.me/amshashankk">
-  <img align="left" alt="Shashank's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Shashank's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/telegram.svg" />
 </a>
 <a href="(https://www.instagram.com/amshashakk">
-  <img align="left" alt="Shashank's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Shashank's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/me.shashank/">
-  <img align="left" alt="Shashank's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Shashank's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/facebook.svg" />
 </a>
 
 <br>
-
-
-**hello.amshashankk.codes**
 
 
 **Profile Visit Count**
