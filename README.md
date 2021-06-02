@@ -25,7 +25,7 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 
 <br>
 
-## Visit - [Portfolio](https://amshashankk.github.io/) to know more..
+![amshashankk.me](http://hello.amshashankk.codes)
 
 **Profile Visit Count**
 
