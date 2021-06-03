@@ -11,7 +11,10 @@ Interested in Software Development, Cyber Security, & Cloud Computing.**
 **Visiting Count 👇**
 
 
-<!--![Visitor Count](https://profile-counter.glitch.me/{amshashankk}/count.svg)-->
+![Visitor Count](https://profile-counter.glitch.me/{amshashankk}/count.svg)
 
 
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/amshashankk)     ![Years Contributed](https://badges.pufler.dev/years/amshashankk)
+
+
+![Contributors Display](https://badges.pufler.dev/contributors/amshashankk/amshashankk?size=50&padding=5&bots=true)
