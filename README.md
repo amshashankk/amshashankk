@@ -9,6 +9,5 @@
 **Visiting Count 👇**
 
 
-![Visitor Count](https://profile-counter.glitch.me/{amshashankk}/count.svg)
-
+![](https://komarev.com/ghpvc/?username=amshashankk&color=red)
 
